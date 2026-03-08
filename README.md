@@ -1,7 +1,7 @@
 # Financial Stress Detection Using Transaction Patterns
 Data mining project for detecting financial stress from personal transaction patterns using clustering, anomaly detection, and classification.
 
-## Dataset link : 
+## Dataset link 
 https://www.kaggle.com/datasets/ramyapintchy/personal-finance-data/data
 
 ## Overview
